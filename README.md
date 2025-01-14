@@ -1,8 +1,7 @@
-# React + Vite
+# Minimal Youtube Clone Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hosted On : https://flextube-react.netlify.app
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/7b088fde-71ec-4121-aebd-3734c7b6ae26)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/9cabf099-3b8d-4999-9a85-412133f33a79)
